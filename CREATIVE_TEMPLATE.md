@@ -1,47 +1,47 @@
-# Creative Test Template
+# Plantilla de Test Creativo
 
-## Creative ID
-Format: **Product-Angle-Hook-Body-CTA**
+## ID del creativo
+Formato: **Producto-Ángulo-Hook-Body-CTA**
 
-Example: `P03-A02-H04-B01-C02`
+Ejemplo: `P03-A02-H04-B01-C02`
 
-## Components
-- Product:
-- Angle:
+## Componentes
+- Producto:
+- Ángulo:
 - Hook:
 - Body:
 - CTA:
-- Format:
-- Reference:
-- Account:
-- Platform:
-- Date published:
+- Formato:
+- Referencia:
+- Cuenta:
+- Plataforma:
+- Fecha de publicación:
 
-## Organic results
-- Views:
-- Views/post benchmark:
-- Clicks:
+## Resultados orgánicos
+- Visitas:
+- Benchmark de visitas/post:
+- Clics:
 - CTR:
-- Comments / intent signals:
+- Comentarios / señales de intención:
 - ATC:
-- Purchases:
+- Compras:
 
-## Paid results
-- Spend:
-- Impressions:
+## Resultados de pago
+- Gasto:
+- Impresiones:
 - CTR:
 - CPC:
 - ATC:
 - Checkout:
-- Purchases:
+- Compras:
 - CPA:
 - AOV:
-- Revenue:
-- Contribution:
+- Ingresos:
+- Contribución:
 
-## Learning
-- What likely worked?
-- What failed?
-- Which component should be kept?
-- Which component should change?
-- Next iteration:
+## Aprendizaje
+- ¿Qué parece haber funcionado?
+- ¿Qué ha fallado?
+- ¿Qué componente debemos mantener?
+- ¿Qué componente debemos cambiar?
+- Siguiente iteración:
