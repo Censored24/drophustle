@@ -1,108 +1,111 @@
-# DROP HUSTLE — Operating System
+# DROP HUSTLE — Sistema Operativo
 
-## Objective
-Build a repeatable US-focused ecommerce testing machine that moves **3–4 products/week** through:
+## Objetivo
+Construir una máquina repetible de ecommerce enfocada en EE. UU. capaz de mover **3–4 productos por semana** por:
 
-**Discovery → Preparation → Organic Test → Organic Scale → Paid Test → Scale / Kill**
+**Descubrimiento → Preparación → Test Orgánico → Escalado Orgánico → Test de Pago → Escalar / Matar**
 
-> Organic Scale is part of **Testing**, not final Scaling.
+> El Escalado Orgánico forma parte de **Testing**, no del escalado final.
 
-## Team rule
-Every active product must always have:
-- **STATE** — current funnel stage.
-- **DRI** — one directly responsible individual.
-- **NEXT ACTION** — the single action blocking the next decision.
-- **DECISION HISTORY** — append decisions; never overwrite the past.
+## Regla del equipo
+Todo producto activo debe tener siempre:
+- **ESTADO** — fase actual del embudo.
+- **RESPONSABLE** — una única persona directamente responsable.
+- **SIGUIENTE ACCIÓN** — la acción concreta que bloquea la siguiente decisión.
+- **HISTORIAL DE DECISIONES** — añadir decisiones; nunca borrar ni sobrescribir el pasado.
 
-## Suggested ownership
-### Growth / Product / Creative
-Product hunting, selection, competitor research, offer/pricing, angles/hooks, creative direction, landing copy, creative analysis, Meta strategy, Kill/Iterate/Scale decisions.
+## Reparto recomendado
 
-### Content / Automation
-Devices, accounts, publishing, automations, scraping, assets/content pipeline and organic metrics.
+### Growth / Producto / Creatividad
+Búsqueda y selección de productos, investigación de competidores, oferta y precios, ángulos/hooks, dirección creativa, copy de landing, análisis creativo, estrategia de Meta y decisiones Matar / Iterar / Escalar.
 
-### Tech / Data / Operations
-Reusable landing system, tracking, dashboard/data, orders, suppliers, fulfillment and APIs/integrations.
+### Contenido / Automatización
+Dispositivos, cuentas, publicación, automatizaciones, scraping, flujo de assets/contenido y métricas orgánicas.
 
-## Weekly throughput
-- Discover: **20–30 candidates**
-- Deep research: **8–10**
-- Enter preparation/testing: **3–4**
-- Never push a weak product through just to hit quota.
+### Tecnología / Datos / Operaciones
+Sistema reutilizable de landings, tracking, dashboard/datos, pedidos, proveedores, fulfillment e integraciones/APIs.
 
-## Funnel & gates
+## Objetivo semanal
+- Descubrir: **20–30 candidatos**
+- Investigar a fondo: **8–10**
+- Entrar en preparación/testing: **3–4**
+- Nunca hacer avanzar un producto flojo solo por cumplir cuota.
 
-### 1. Discovery
-Capture product, source link, competitors, observed price, supplier estimate, why it may work, 3–5 reference creatives and obvious risks.
+## Embudo y fases
 
-### 2. Filter
-Evaluate product clarity/visual demonstration, demand/problem/desire, creative scalability, economics, operational feasibility and IP/policy/refund risk.
+### 1. Descubrimiento
+Guardar producto, enlace de origen, competidores, precio observado, estimación de proveedor, por qué puede funcionar, 3–5 creativos de referencia y riesgos evidentes.
 
-Decision: **Kill / Backlog / Preparation**.
+### 2. Filtro
+Evaluar claridad y demostración visual, demanda/problema/deseo, escalabilidad creativa, economía, viabilidad operativa y riesgos de IP, políticas y reembolsos.
 
-### 3. Supplier & economics
-Get 2–3 supplier options where possible. Record unit cost, US base shipping/order, additional-unit shipping, delivery estimate, tracking, capacity, quality, refund/replacement terms and private-label potential.
+Decisión: **Matar / Backlog / Preparación**.
 
-Core metric: **contribution/order**.
+### 3. Proveedor y economía
+Conseguir 2–3 opciones de proveedor cuando sea posible. Registrar coste unitario, envío base a EE. UU. por pedido, coste de unidad adicional, plazo, tracking, capacidad, calidad, condiciones de reembolso/reposición y posibilidad de marca privada.
 
-Calculate landed cost, payment/transaction costs, contribution before ads and **break-even CPA**. Bad economics → Kill or renegotiate before paid spend.
+Métrica principal: **contribución por pedido**.
 
-### 4. Offer & landing
-Define positioning, price, bundles, guarantee, shipping promise and CTA. Use a reusable mobile-first landing template.
+Calcular coste puesto en destino, comisiones de pago/transacción, contribución antes de publicidad y **CPA de equilibrio**. Mala economía → Matar o renegociar antes de gastar en paid.
 
-Tracking funnel: **View → ATC → Checkout → Purchase**.
+### 4. Oferta y landing
+Definir posicionamiento, precio, bundles, garantía, promesa de envío y CTA. Usar una plantilla de landing reutilizable y mobile-first.
 
-### 5. Creative system
-Decompose every creative:
-**Angle → Hook → Body → CTA → Format**
+Tracking: **Visita → ATC → Checkout → Compra**.
 
-Recommended ID: **P03-A02-H04-B01-C02**.
+### 5. Sistema creativo
+Descomponer cada creativo:
 
-Learn at component/concept level, not only at individual-video level.
+**Ángulo → Hook → Body → CTA → Formato**
 
-### 6. Organic Test
-Start with **2–3 accounts/product** and different concepts/angles. A starting cadence can be 2–3 posts/account/day, adjusted by platform and capacity.
+ID recomendado: **P03-A02-H04-B01-C02**.
 
-Do not end tests purely by elapsed days. Require a configurable minimum sample/posts. Seven days can trigger review, not an automatic kill.
+Aprender a nivel de componente y concepto, no solo de vídeo individual.
 
-### 7. Organic decision
-Review views/post, distribution, clicks, comments/intent, ATC and purchases where available.
+### 6. Test Orgánico
+Empezar con **2–3 cuentas por producto** y diferentes conceptos/ángulos. Como referencia inicial, 2–3 posts por cuenta/día, ajustable según plataforma y capacidad.
 
-Decision: **Kill / Iterate / Organic Scale**.
+No terminar un test únicamente porque hayan pasado X días. Exigir una muestra mínima configurable. Siete días pueden activar una revisión, no un kill automático.
 
-### 8. Organic Scale
-Expand promising products toward **5–6 accounts**. Scale winning concepts through multiple executions, not identical-file duplication.
+### 7. Decisión orgánica
+Revisar visitas/post, distribución, clics, comentarios/intención, ATC y compras cuando existan.
 
-### 9. Paid Test
-Take roughly **2–4 best concepts** into Meta. Initial spend can start around **$50/test**, configurable.
+Decisión: **Matar / Iterar / Escalado Orgánico**.
 
-Track Spend, CTR, CPC, ATC, Checkout, Purchases, CPA, AOV, Revenue and Contribution.
+### 8. Escalado Orgánico
+Expandir productos prometedores hacia **5–6 cuentas**. Escalar conceptos ganadores mediante múltiples ejecuciones, no duplicando exactamente el mismo archivo.
 
-Primary comparison: **CPA vs break-even CPA**, supported by contribution/order.
+### 9. Test de Pago
+Llevar aproximadamente los **2–4 mejores conceptos** a Meta. El gasto inicial puede partir de **~50 USD por test**, siempre configurable.
 
-### 10. Paid decision
-- Low CTR → creative problem.
-- Good CTR + weak conversion → landing/offer problem.
-- High ATC + low purchase → checkout/trust/shipping problem.
-- Good CPA + weak contribution → economics problem.
+Medir gasto, CTR, CPC, ATC, checkout, compras, CPA, AOV, ingresos y contribución.
 
-Decision: **Kill / Iterate / Scale**.
+Comparación principal: **CPA vs CPA de equilibrio**, apoyada por contribución por pedido.
 
-### 11. Scale
-Increase budget only when creative, CPA, contribution and supplier capacity support it. Improve creative volume, landing, bundles, supplier terms, shipping and operations.
+### 10. Decisión de paid
+- CTR bajo → problema creativo.
+- Buen CTR + mala conversión → problema de landing/oferta.
+- ATC alto + pocas compras → problema de checkout/confianza/envío.
+- Buen CPA + mala contribución → problema económico.
 
-## Daily operating rhythm
-10–15 minute stand-up:
-1. What moved yesterday?
-2. What is blocked?
-3. What is the next action for every active product?
-4. Which decision can we make today?
+Decisión: **Matar / Iterar / Escalar**.
 
-## GitHub workflow
-Recommended board:
-**Backlog → This Week → In Progress → Review → Done**
+### 11. Escalado
+Subir presupuesto solo cuando creativo, CPA, contribución y capacidad del proveedor lo soporten. Mejorar volumen creativo, landing, bundles, condiciones de proveedor, envío y operaciones.
 
-Use Issues as the source of truth. Keep “build the machine” work separate from per-product execution.
+## Ritmo diario
+Reunión de 10–15 minutos:
+1. ¿Qué avanzó ayer?
+2. ¿Qué está bloqueado?
+3. ¿Cuál es la siguiente acción de cada producto activo?
+4. ¿Qué decisión podemos tomar hoy?
 
-## Principle
-The objective is not to keep products alive. It is to reach high-quality decisions quickly with the smallest useful amount of time and capital.
+## Flujo en GitHub
+Board recomendado:
+
+**Backlog → Esta semana → En progreso → Revisión → Hecho**
+
+Usar Issues como fuente de verdad. Separar las tareas de **construir la máquina** de las tareas de productos concretos.
+
+## Principio
+El objetivo no es mantener productos vivos. Es llegar a decisiones de calidad rápidamente usando la menor cantidad útil de tiempo y capital.
